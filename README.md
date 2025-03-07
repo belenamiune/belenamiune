@@ -19,4 +19,4 @@ Feel free to check out my work and let's connect! 🌱
 📫 **Contact Me**:
 - Email: amiunebelen88@gmail.com
 - LinkedIn: [amiunebelen](https://www.linkedin.com/in/amiunebelen/)
-- Portfolio: [Portfolio](https://belenamiuneportfolio.netlify.app/)
+- Portfolio: [Portfolio](https://belenamiune.netlify.app/)
